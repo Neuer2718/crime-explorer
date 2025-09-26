@@ -1,0 +1,7 @@
+incident_id,category,occurred_at,borough
+1,Assault,2022-01-15,BROOKLYN
+2,Theft,2022-02-03,MANHATTAN
+3,Theft,2022-02-21,QUEENS
+4,Burglary,2022-03-10,BRONX
+5,Assault,2022-03-22,STATEN ISLAND
+6,Theft,2022-03-29,BROOKLYN
